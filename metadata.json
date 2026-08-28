@@ -1,0 +1,6 @@
+{
+  "name": "VetCare",
+  "description": "Sistema clínico veterinario integral para gestión de pacientes, consultas, vacunas, desparasitaciones, cirugías e inventario",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

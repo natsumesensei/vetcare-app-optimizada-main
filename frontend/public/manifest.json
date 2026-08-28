@@ -1,0 +1,17 @@
+{
+  "short_name": "VetCare",
+  "name": "VetCare - Sistema Clínico Veterinario",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f766e",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "description": "Sistema profesional de gestión clínica, facturación multidivisa y laboratorio veterinario"
+}

@@ -1,0 +1,3 @@
+# Archivos temporales de SQLite
+*.sqlite-wal
+*.sqlite-shm
